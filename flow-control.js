@@ -1,4 +1,5 @@
-function basicTeenager(16) {
+function basicTeenager(age) {
+  if (17) {basic teenger}
 
 }
 
